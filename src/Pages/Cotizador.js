@@ -4,7 +4,7 @@ function Cotizador() {
   return (
     <div>
       <span className="mb-4">
-        Reaclice una cotización de un pedido, con el valor unitario que usted
+        Realice una cotización de un pedido, con el valor unitario que usted
         concidere conveniente.
       </span>
       <form>
