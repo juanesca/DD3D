@@ -14,9 +14,9 @@ function App() {
       <Router>
         <Switch>
           <Layout>
-          <Route path="/CEO" component={Cotizador} />
+          <Route path="/CEO" component={CEO} />
           <Route path="/Nosotros" component={Nosotros} />
-          <Route path="/Cotizador" component={CEO} />
+          <Route path="/Cotizador" component={Cotizador} />
           </Layout>
         </Switch>
       </Router>
